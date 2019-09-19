@@ -14,7 +14,7 @@
                                                                                                                   "María del Mar Arribas de Andrés - Ayuntamiento de Madrid" ,
                                                                                                                   "Red.es" ,
                                                                                                                   "Servicio de Informática - Ayuntamiento de Santiago de Compostela" ,
-                                                                                                                  "Servicio de Innovación y Desarrollo Tecnológico - Ayuntamiento de A Coruña" ,
+                                                                                                                  "Servicio de Innovación y Desarrollo Tecnológico - Ayuntamiento de A. Coruña" ,
                                                                                                                   "Víctor Morlán Plo - Ayuntamiento de Zaragoza" ;
                                                                     <http://purl.org/dc/elements/1.1/creator> "Oscar Corcho (Ontology Engineering Group - Universidad Politécnica de Madrid, LocaliData)" ,
                                                                                                               "Paola Espinoza Arias (Ontology Engineering Group - Universidad Politécnica de Madrid)" ;
